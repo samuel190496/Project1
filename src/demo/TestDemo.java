@@ -10,6 +10,9 @@ public class TestDemo {
 		System.out.println("weteseney edris ali ");
 
 		System.out.println("Today is friday the 5th ");
+		
+		
+		// sam was here
 
 		
 	}
