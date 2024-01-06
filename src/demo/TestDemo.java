@@ -6,6 +6,10 @@ public class TestDemo {
 		
 		
 		System.out.println("weteseney edris ali ");
+
+		System.out.println("wtoday is friday the 5th ");
+
+		
 	}
 
 }
